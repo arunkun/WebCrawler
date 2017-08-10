@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-08-10T09:36:08</date>
+  <millis>1502337968916</millis>
+  <sequence>0</sequence>
+  <logger>com.arun.crawler.processor.CrawlerProcess</logger>
+  <level>INFO</level>
+  <class>com.arun.crawler.processor.CrawlerProcess</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Time for completion for caching links:8755</message>
+</record>
+<record>
+  <date>2017-08-10T09:36:20</date>
+  <millis>1502337980250</millis>
+  <sequence>4</sequence>
+  <logger>com.arun.crawler.processor.CrawlerProcess</logger>
+  <level>INFO</level>
+  <class>com.arun.crawler.processor.CrawlerProcess</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Total Time:20101</message>
+</record>
+</log>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-08-09T23:03:26</date>
+  <millis>1502300006298</millis>
+  <sequence>0</sequence>
+  <logger>com.arun.crawler.processor.CrawlerProcess</logger>
+  <level>INFO</level>
+  <class>com.arun.crawler.processor.CrawlerProcess</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Time for completion for caching links:10</message>
+</record>
+<record>
+  <date>2017-08-09T23:03:27</date>
+  <millis>1502300007280</millis>
+  <sequence>1</sequence>
+  <logger>com.arun.crawler.processor.CrawlerProcess</logger>
+  <level>INFO</level>
+  <class>com.arun.crawler.processor.CrawlerProcess</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1502300007280</message>
+</record>
+<record>
+  <date>2017-08-09T23:03:27</date>
+  <millis>1502300007280</millis>
+  <sequence>2</sequence>
+  <logger>com.arun.crawler.processor.CrawlerProcess</logger>
+  <level>INFO</level>
+  <class>com.arun.crawler.processor.CrawlerProcess</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1502300007280</message>
+</record>
+<record>
+  <date>2017-08-09T23:03:27</date>
+  <millis>1502300007280</millis>
+  <sequence>3</sequence>
+  <logger>com.arun.crawler.processor.CrawlerProcess</logger>
+  <level>INFO</level>
+  <class>com.arun.crawler.processor.CrawlerProcess</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Time for completion:0</message>
+</record>
